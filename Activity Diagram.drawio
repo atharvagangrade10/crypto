@@ -1,24 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T06:38:24.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="mGDWlEL7oeCL30jAd2CY" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T07:29:15.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="bgGi-DJW8bosklsGzTWi" version="17.1.2" type="github">
   <diagram id="UbQqQiiFNN8-QZaEHGcQ" name="Page-1">
-    <mxGraphModel dx="1296" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2004" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IoPZMogMuGn2sWMJ8WOs-3" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="385" y="20" width="30" height="30" as="geometry" />
+          <mxGeometry x="515" y="30" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IoPZMogMuGn2sWMJ8WOs-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" source="IoPZMogMuGn2sWMJ8WOs-18" parent="1" target="IoPZMogMuGn2sWMJ8WOs-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="180" as="targetPoint" />
+            <mxPoint x="530" y="190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.477;entryY=0.509;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-5" target="IoPZMogMuGn2sWMJ8WOs-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IoPZMogMuGn2sWMJ8WOs-5" value="Login" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="340" y="170" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IoPZMogMuGn2sWMJ8WOs-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.49;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="IoPZMogMuGn2sWMJ8WOs-5" parent="1" target="IoPZMogMuGn2sWMJ8WOs-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="250" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="470" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IoPZMogMuGn2sWMJ8WOs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#EA0C0C;strokeWidth=1;endArrow=open;endFill=0;endSize=8;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-7" target="IoPZMogMuGn2sWMJ8WOs-11">
           <mxGeometry relative="1" as="geometry">
@@ -28,8 +26,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-7" target="IoPZMogMuGn2sWMJ8WOs-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="260" />
+              <mxPoint x="530" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-7" target="IoPZMogMuGn2sWMJ8WOs-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="260" />
+              <mxPoint x="840" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IoPZMogMuGn2sWMJ8WOs-7" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="180" y="240" width="450" height="10" as="geometry" />
+          <mxGeometry x="80" y="240" width="940" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IoPZMogMuGn2sWMJ8WOs-11" value="Coin" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="180" y="290" width="120" height="30" as="geometry" />
@@ -65,12 +79,12 @@
           <mxGeometry x="120" y="410" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IoPZMogMuGn2sWMJ8WOs-18" value="Open Application" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="340" y="80" width="120" height="30" as="geometry" />
+          <mxGeometry x="470" y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IoPZMogMuGn2sWMJ8WOs-19" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=none;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-3" target="IoPZMogMuGn2sWMJ8WOs-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="170" as="targetPoint" />
-            <mxPoint x="400" y="50" as="sourcePoint" />
+            <mxPoint x="530" y="180" as="targetPoint" />
+            <mxPoint x="530" y="60" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IoPZMogMuGn2sWMJ8WOs-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-22" target="IoPZMogMuGn2sWMJ8WOs-30">
@@ -96,16 +110,119 @@
             <mxPoint x="310" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IoPZMogMuGn2sWMJ8WOs-36" value="Add money to bank" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="250" y="590" width="120" height="40" as="geometry" />
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-36" target="IoPZMogMuGn2sWMJ8WOs-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IoPZMogMuGn2sWMJ8WOs-37" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="IoPZMogMuGn2sWMJ8WOs-36" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="690" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-36" value="Add money to bank" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="251" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.106;entryY=0.689;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-38" target="IoPZMogMuGn2sWMJ8WOs-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IoPZMogMuGn2sWMJ8WOs-38" value="Remove money to bank" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="120" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.445;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-42" target="IoPZMogMuGn2sWMJ8WOs-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="340" />
+              <mxPoint x="529" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-42" value="NFT" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-44" target="IoPZMogMuGn2sWMJ8WOs-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="380" />
+              <mxPoint x="465" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-44" target="IoPZMogMuGn2sWMJ8WOs-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="390" />
+              <mxPoint x="600" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-44" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.398;entryY=0.479;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-45" target="IoPZMogMuGn2sWMJ8WOs-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-45" value="List NFT" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="405" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.551;entryY=0.268;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-48" target="IoPZMogMuGn2sWMJ8WOs-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-48" value="UnList NFT" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-53" target="IoPZMogMuGn2sWMJ8WOs-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-53" value="Play Game" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="780" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-55" target="IoPZMogMuGn2sWMJ8WOs-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-55" value="Place Bet" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="780" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-63" value="Win" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="800" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-64" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="IoPZMogMuGn2sWMJ8WOs-63" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="990" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="970" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-65" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="IoPZMogMuGn2sWMJ8WOs-63" parent="1" target="IoPZMogMuGn2sWMJ8WOs-66">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="840" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.81;entryY=0.689;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-66" target="IoPZMogMuGn2sWMJ8WOs-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-66" value="Send NFT to wallet" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="780" y="610" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-67" target="IoPZMogMuGn2sWMJ8WOs-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-67" value="Remove NFT From wallet" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="990" y="495" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=8;strokeColor=#EA0C0C;strokeWidth=1;" edge="1" parent="1" source="IoPZMogMuGn2sWMJ8WOs-69" target="IoPZMogMuGn2sWMJ8WOs-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="740" />
+              <mxPoint x="530" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-69" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="940" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IoPZMogMuGn2sWMJ8WOs-75" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="515" y="780" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
